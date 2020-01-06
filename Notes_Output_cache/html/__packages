@@ -1,0 +1,12 @@
+base
+ggplot2
+dplyr
+nycflights13
+tidyverse
+tibble
+tidyr
+readr
+purrr
+stringr
+forcats
+lubridate
